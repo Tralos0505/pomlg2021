@@ -1,0 +1,116 @@
+.inputField2 {
+
+    border-radius: 10px;
+    line-height: 30px;
+    width: 80%;
+    text-align: left;
+    background-color: rgba(255 , 255, 255, 0.4);
+    border: 0.5px white solid;
+    transition: all 1s;
+
+
+
+}
+
+.inputField2:hover {
+
+    border-radius: 10px;
+    line-height: 30px;
+    width: 100%;
+    text-align: left;
+    background-color: rgba(255 , 255, 255, 1);
+    border: none;
+    
+
+
+}
+
+.inscription p {
+    font-weight: bold;
+}
+
+.leftalign {
+    text-align: left;
+}
+
+#cours {
+    border-radius: 10px;
+    line-height: 30px;
+    width: 50%;
+    font-size: large;
+    background-color: rgba(255 , 255, 255, 0.6);
+    border: solid white 3px;
+    
+}
+
+.inscription {
+    border: solid white 2px;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+.tdtext {
+    text-align: left;
+}
+
+.tdleftalign {
+    text-align: left;
+    padding-left: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 50%;
+    
+
+    }
+
+
+    @media only screen and (max-width: 768px) {
+
+         p {
+            font-weight: normal;
+            font-size: 14px;
+        }
+
+        .textvario {
+
+            font-size: 14px;
+
+        }
+        
+    
+    }
+
+.kiste {
+    padding: 20px;
+    border-radius: 10px;
+    border: 4px solid white;
+    
+}
+
+.confirmationText {
+
+    border: 3px solid white;
+    border-radius: 10px;
+    border: 20px ;
+
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+

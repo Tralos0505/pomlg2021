@@ -1,0 +1,36 @@
+.footerClassBlue {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+}
+
+.footerClassGreen {
+    background: rgb(135, 195, 62);
+    background: linear-gradient(180deg, rgba(135, 195, 62, 1) 0%, rgba(74, 230, 142, 1) 44%, rgba(135, 195, 62, 1) 100%);
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+}
+
+.footerLink {
+    color: white;
+}
+
+.footerHr {
+    width: 50%;
+    box-shadow: 2px 6px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.footerImage {
+    background-color: rgba(0, 0, 0, 0);
+    height: 25px;
+    transition: all 2s;
+}
+
+.footerImage:hover {
+    height: 40px;
+}

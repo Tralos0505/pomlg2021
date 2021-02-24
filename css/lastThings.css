@@ -1,0 +1,132 @@
+/* MASTER STYLE */
+
+
+
+.imgonSiteCenteredHorizontal {
+    margin-top: 5%;
+    margin-bottom: 2%;
+} 
+
+
+.specialPhotoText {
+    
+    font-size: smaller;
+}
+
+
+.underlineText {
+    text-decoration: underline;
+}
+
+.greenText0LineHeight {
+    line-height: 0px;
+    color: #87c33e;;
+}
+
+.blueText0LineHeight {
+    line-height: 0px;
+    color: #146275;
+}
+
+.smallWhiteText {
+    color: white;
+    font-size: small;
+    font-weight: 400;
+    line-height: 0px;
+}
+
+
+
+
+@media only screen and (max-width: 1300px) {
+
+    .specialBRRRRR {
+        display: none;
+    }
+    
+
+}
+
+
+@media only screen and (max-width: 1100px) {
+
+.imgonSiteCenteredHorizontal {
+    margin-top: 2%;
+    margin-bottom: 2%;
+} 
+
+.specialBRRRRR {
+    display: none;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 800px) {
+
+    pos;
+
+
+.listMLGborder {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: left;
+}
+
+.centerList {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.permanentMarkerTitleBig {
+    font-size: 28px;
+    margin-top: 5px;
+}
+
+.pdfcontainer {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.pdfImage {
+    display: none;
+} 
+
+.textOnSitehalf {
+    width: 95%;
+    padding: 0;
+    margin: 2% 10px;
+}
+
+.containerPadding {
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.specialBRRRRR {
+    display: none;
+}
+
+.listMLG {
+    padding: 5px;
+}
+
+.padding {
+    padding: 5px;
+    
+}
+
+
+    
+
+}
+
+@media only screen and (max-width: 500px) {
+
+.videoOnSite {
+    width: 200px;
+}
+
+}
